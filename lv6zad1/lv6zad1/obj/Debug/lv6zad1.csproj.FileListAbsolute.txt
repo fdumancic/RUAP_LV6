@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\lv6zad1.exe.config
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\obj\Debug\lv6zad1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\lv6zad1.exe
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\lv6zad1.pdb
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\obj\Debug\lv6zad1.exe
+C:\Users\Student\Desktop\lv6zad1\lv6zad1\obj\Debug\lv6zad1.pdb
